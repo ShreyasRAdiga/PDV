@@ -1,0 +1,17 @@
+[
+    {
+        "text": "\n\n16.A train travelling at a speed of 75 mph enters a tunnel 3 miles long. The train is  mile long. How long does it take for the train to pass through the tunnel from the moment the front enters to the moment the rear emerges?\n\n\n\n\n\n2.5 min\n\n\n\n\n3 min\n\n\n\n\n3.2 min\n\n\n\n\n3.5 min\n\n\n\n\n\n\n\nAnswer: Option\n \n\nExplanation:\n\n\n\n\nTotal distance covered\n\n\n\n=\n\n7\n+\n1\n\nmiles\n\n\n2\n4\n\n\n\n\n\n\n\n\n\n=\n15\nmiles.\n\n\n4\n\n\n\n\n\n\n\n\n\n Time taken\n\n\n\n=\n\n15\n\nhrs\n\n\n4 x 75\n\n\n\n\n\n\n\n\n=\n1\nhrs\n\n\n20\n\n\n\n\n\n\n\n\n\n=\n\n1\nx 60\n\nmin.\n\n\n20\n\n\n\n\n\n\n= 3 min.\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "text": "\n\n17.A train 800 metres long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 minute, then the length of the tunnel (in meters) is:\n\n\n\n\n\n130\n\n\n\n\n360\n\n\n\n\n500\n\n\n\n\n540\n\n\n\n\n\n\n\nAnswer: Option\n \n\nExplanation:\n\n\n\n\nSpeed =\n\n78 x\n5\n\nm/sec\n=\n\n65\n\nm/sec.\n\n\n18\n3\n\n\n\nTime = 1 minute = 60 seconds.\nLet the length of the tunnel be x metres.\n\n\n\nThen, \n\n800 + x\n\n=\n65\n\n\n60\n3\n\n\n\n 3(800 + x) = 3900\n x = 500.\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "text": "\n\n18.A 300 metre long train crosses a platform in 39 seconds while it crosses a signal pole in 18 seconds. What is the length of the platform?\n\n\n\n\n\n320 m\n\n\n\n\n350 m\n\n\n\n\n650 m\n\n\n\n\nData inadequate\n\n\n\n\n\n\n\nAnswer: Option\n \n\nExplanation:\n\n\n\n\nSpeed =\n\n300\n\nm/sec =\n50\nm/sec.\n\n\n18\n3\n\n\n\nLet the length of the platform be x metres.\n\n\n\nThen,\n\nx + 300\n\n=\n50\n\n\n39\n3\n\n\n\n 3(x + 300) = 1950\n x = 350 m.\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "text": "\n\n19.A train speeds past a pole in 15 seconds and a platform 100 m long in 25 seconds. Its length is:\n\n\n\n\n\n50 m\n\n\n\n\n150 m\n\n\n\n\n200 m\n\n\n\n\nData inadequate\n\n\n\n\n\n\n\nAnswer: Option\n \n\nExplanation:\n\nLet the length of the train be x metres and its speed by y m/sec.\n\n\n\nThen,\nx\n= 15 \u00a0 \u00a0  \u00a0 \u00a0 y =\nx\n.\n\n\ny\n15\n\n\n\n\n\n\n\nx + 100\n=\nx\n\n\n25\n15\n\n\n\n 15(x + 100) = 25x\n 15x + 1500 = 25x\n 1500 = 10x\n x = 150 m.\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "text": "\n\n20.A train moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively. What is the speed of the train?\n\n\n\n\n\n69.5 km/hr\n\n\n\n\n70 km/hr\n\n\n\n\n79 km/hr\n\n\n\n\n79.2 km/hr\n\n\n\n\n\n\n\nAnswer: Option\n \n\nExplanation:\n\nLet the length of the train be x metres and its speed by y m/sec.\n\n\n\nThen,\nx\n= 8 \u00a0 \u00a0  \u00a0 \u00a0 x = 8y\n\n\ny\n\n\n\n\n\n\nNow,\nx + 264\n= y\n\n\n20\n\n\n\n 8y + 264 = 20y\n y = 22.\n\n\n\n Speed = 22 m/sec =\n\n22 x\n18\n\nkm/hr = 79.2 km/hr.\n\n\n5\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "text": "\n\n21.How many seconds will a 500 metre long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?\n\n\n\n\n\n25\n\n\n\n\n30\n\n\n\n\n40\n\n\n\n\n45\n\n\n\n\n\n\n\nAnswer: Option\n \n\nExplanation:\n\n\n\n\nSpeed of the train relative to man\n= (63 - 3) km/hr\n\n\n\n= 60 km/hr\n\n\n\n\n\n\n=\n\n60 x\n5\n\nm/sec\n\n\n18\n\n\n\n\n\n\n\n\n\n=\n\n50\n\nm/sec.\n\n\n3\n\n\n\n\n\n Time taken to pass the man\n\n\n\n=\n\n500 x\n3\n\nsec\n\n\n50\n\n\n\n\n\n\n= 30 sec.\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "text": "\n\n22.Two goods train each 500 m long, are running in opposite directions on parallel tracks. Their speeds are 45 km/hr and 30 km/hr respectively. Find the time taken by the slower train to pass the driver of the faster one.\n\n\n\n\n\n12 sec\n\n\n\n\n24 sec\n\n\n\n\n48 sec\n\n\n\n\n60 sec\n\n\n\n\n\n\n\nAnswer: Option\n \n\nExplanation:\n\n\n\n\nRelative speed =\n= (45 + 30) km/hr\n\n\n\n\n\n\n=\n\n75 x\n5\n\nm/sec\n\n\n18\n\n\n\n\n\n\n\n\n\n=\n\n125\n\nm/sec.\n\n\n6\n\n\n\n\n\n\nWe have to find the time taken by the slower train to pass the DRIVER of the faster train and not the complete train.\nSo, distance covered = Length of the slower train.\nTherefore, Distance covered = 500 m.\n\n\n\n Required time =\n\n500 x\n6\n\n= 24 sec.\n\n\n125\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "text": "\n\n23.Two trains are running in opposite directions with the same speed. If the length of each train is 120 metres and they cross each other in 12 seconds, then the speed of each train (in km/hr) is:\n\n\n\n\n\n10\n\n\n\n\n18\n\n\n\n\n36\n\n\n\n\n72\n\n\n\n\n\n\n\nAnswer: Option\n \n\nExplanation:\n\nLet the speed of each train be x m/sec.\nThen, relative speed of the two trains = 2x m/sec.\n\n\n\nSo, 2x =\n(120 + 120)\n\n\n12\n\n\n\n 2x = 20\n x = 10.\n\n\n\n Speed of  each train = 10 m/sec =\n\n10 x\n18\n\nkm/hr = 36 km/hr.\n\n\n5\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "text": "\n\n24.Two trains of equal lengths take 10 seconds and 15 seconds respectively to cross a telegraph post. If the length of each train be 120 metres, in what time (in seconds) will they cross each other travelling in opposite direction?\n\n\n\n\n\n10\n\n\n\n\n12\n\n\n\n\n15\n\n\n\n\n20\n\n\n\n\n\n\n\nAnswer: Option\n \n\nExplanation:\n\n\n\n\nSpeed of the first train =\n\n120\n\nm/sec = 12 m/sec.\n\n\n10\n\n\n\n\n\n\nSpeed of the second train =\n\n120\n\nm/sec = 8 m/sec.\n\n\n15\n\n\n\nRelative speed = (12 + 8) = 20 m/sec.\n\n\n\n Required time =\n\n(120 + 120)\n\nsec = 12 sec.\n\n\n20\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+        "text": "\n\n25.A train 108 m long moving at a speed of 50 km/hr crosses a train 112 m long coming from opposite direction in 6 seconds. The speed of the second train is:\n\n\n\n\n\n48 km/hr\n\n\n\n\n54 km/hr\n\n\n\n\n66 km/hr\n\n\n\n\n82 km/hr\n\n\n\n\n\n\n\nAnswer: Option\n \n\nExplanation:\n\nLet the speed of the second train be x km/hr.\n\n\n\nRelative speed\n= (x + 50) km/hr\n\n\n\n\n\n\n=\n\n(x + 50) x\n5\n\nm/sec\n\n\n18\n\n\n\n\n\n\n\n\n\n=\n\n250 + 5x\n\nm/sec.\n\n\n18\n\n\n\n\n\n\nDistance covered = (108 + 112) = 220 m.\n\n\n\n \n220\n= 6\n\n\n\n\n\n\n250 + 5x\n\n\n\n18\n\n\n\n\n\n\n 250 + 5x = 660\n x = 82 km/hr.\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n"
+    }
+]
